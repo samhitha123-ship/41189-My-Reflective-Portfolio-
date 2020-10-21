@@ -183,3 +183,22 @@ The sociological theory of homophily proved to be useful this week. It helped me
 
 ## Week 8- STUVAC
 
+## Week 9: 
+## What have I learnt this week?
+Reflecting upon the week 9 workshop, no such learnings have taken place this week as it was mainly to focus on the group assignment for the human-centred complex systems unit. The primary focus of this workshop was to talk about the pre-submission task of the assignment with the group. It was mainly planning and finalizing points to discuss in the final report. I also tried to learn about Jupiter and how to utilise it. 
+
+## What do I 'now know' that I did not before?
+Although I haven’t learnt anything in specific, this week made our group know the improvements that are to be made for our final report and points to be added to the report. It made us more aware of the errors of our final report and which areas require development.  
+
+## What insights have I gained?
+Although teamwork is highly essential and that fact is known, I have personally gained more insight into the importance of teamwork this lesson. I noticed that in order for us to complete the pre-submission, I was able to understand how significant collaborating and sharing ideas is as a group was. 
+
+## What are (my/the) perceived strengths and weaknesses that I have observed?
+In relation to my strengths, I believe that my team working skills were highly showcased as I was able to collaborate with my team members by sharing ways. This made it easier to complete the pre-submission. However, in relation to weaknesses, communication amongst group members was an issue. This was because our group leader although took initiative with their part, they failed to communicate their ideas with the group and this caused immense confusion and misunderstanding with the group. 
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+As mentioned prior, communication with our group leader seemed to be a key issue and also trying to attend group meetings. Due to virtual interaction and considering that each individual is busy during their own times, group meetings seemed difficult to take place and we lacked commitment and consistency. However, despite the struggle undergone, our ground still managed to attend two meetings and we had a group chat to communicate any important matters of the assignment. 
+
+## What would I do better next time and with what anticipated results?
+In terms of things I would do better for next time, I aim to deepen my understanding about Hithub and Jupyter notebook due to the struggles undergone for the pre-submission. Moreover, I aim to improve the organisation skills of our group and better communication. This would assist and enable us in successfully completing the assignment.  
+
