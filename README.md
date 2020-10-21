@@ -202,3 +202,25 @@ As mentioned prior, communication with our group leader seemed to be a key issue
 ## What would I do better next time and with what anticipated results?
 In terms of things I would do better for next time, I aim to deepen my understanding about Hithub and Jupyter notebook due to the struggles undergone for the pre-submission. Moreover, I aim to improve the organisation skills of our group and better communication. This would assist and enable us in successfully completing the assignment.  
 
+
+
+
+## Week 10: 
+
+## What have I learnt this week?
+Upon reflection of the week 9 workshop, no such learnings have taken place this week either as it was mainly to focus on the final report after the pre-submission. The primary focus of this workshop was to talk about the pre-submission task of the assignment with the group. It was mainly taking feedback and incorporating that feedback into the final report. 
+
+## What do I 'now know' that I did not before?
+Although I haven’t learnt anything in specific, this week made our group know the improvements that are to be made for our final report. It made us more aware of the errors of our final report and which areas require development.  Our tutor provided us with extensive feedback and informed us that we needed to make significant changes to our assignment. 
+
+## What insights have I gained?
+I have personally gained insight into the way our group report was critically evaluated and which sections require development as mentioned above. The areas we believed we did well in were critically evaluated and it was noticed that there is extensive improvement to be made on those aspects. Thus, this provides insight into which aspects of the assignment need further effort to be allocated to. 
+
+## What are (my/the) perceived strengths and weaknesses that I have observed?
+In relation to my strengths, I have noticed that my team working skills were extremely good as I participated in the group work well. However, miscommunication was more prominent within our group. I believe there was a lack of proper communication with the group leader especially and due to this, there was confusion for the rest of the members and thus, made it difficult to provide quality work. 
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Upon reflecting, the weaknesses observed this week can also be regarded as challenges. The biggest challenge is the communication with our group leader as mentioned above.  It was challenging because our tutor gave us extensive feedback which must be incorporated in order to receive and due to improper communication, it made it difficult as not all members were aware of what to do. Unfortunately, our team didn’t handle this very well thus why there were complications although not major. 
+
+## What would I do better next time and with what anticipated results?
+In relation to things I would do better for next time, I aim to assist my group with better communication by addressing the issue and in this case with our team leader. This would ease the complications and make everything fair. 
