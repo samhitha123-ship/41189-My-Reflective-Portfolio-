@@ -181,3 +181,5 @@ In relation to things I would do better for next time, I wouldn’t want to make
 ## What theory proved to be useful and why? What have I learnt from this?
 The sociological theory of homophily proved to be useful this week. It helped me in understating the concept of “like attracts like’ in opporosointion to ‘opposite attract opposites”. This theory has enabled me to enhance my learning towards the Schelling’s Segregation Model, Granovetter’s Model and Standing Ovation Models. I personally thought this theory was the most useful because I could apply the concepts to my real-life situations. 
 
+## Week 8- STUVAC
+
