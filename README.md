@@ -158,7 +158,7 @@ Note taking is always perceived as a  key technique and therefore, maintaining c
 
 
 
-Week 7: 
+## Week 7: 
 
 ## What have I learnt this week?
 Upon reflection of the week 7 workshop, I have learned about complexity and emergent behaviours. I became aware of Segregating and Peer effects in relation to the Schelling’s Segregation Model, Granovetter’s Model and Standing Ovation Model.  Moreover, I have also learnt about coordination and culture and replicator dynamics. rReplicator dynamics are known to be an interesting type of social learning models as they are used for psychology, economics and ecology.  
