@@ -224,3 +224,23 @@ Upon reflecting, the weaknesses observed this week can also be regarded as chall
 
 ## What would I do better next time and with what anticipated results?
 In relation to things I would do better for next time, I aim to assist my group with better communication by addressing the issue and in this case with our team leader. This would ease the complications and make everything fair. 
+
+## Week 11: 
+
+## What have I learnt this week?
+Through reflecting upon the week 11 workshop, this week we asked our tutor to extend the deadline for the final report wherein we could have more time to work on it and thus provide improved quality work. This would also allow us to utilise Jypyter and understand how to use that notebook properly. 
+
+## What do I 'now know' that I did not before?
+Nothing was learnt during this workshop, however, we gained more insight into ways of using Jupyter and how to utilise the notebook for our assignment/. 
+
+## What insights have I gained?
+In all honesty there were no such insights gained during this workshop. 
+What are (my/the) perceived strengths and weaknesses that I have observed?
+Unfortunately, there were no such strengths observed during this lesson but mainly weaknesses. The biggest weakness was failing to understand how Jupyter operates and this caused complications and stress. 
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Upon reflecting, the weaknesses observed this week can also be regarded as challenges. The biggest challenge was failing to understand Jupyter as mentioned above. I tried to ask other members of the group and other groups for help to understand it. Doing this assisted me and eased the difficulty slightly. 
+
+## What would I do better next time and with what anticipated results?
+In relation to things I would do better for next time, I aim to prepare myself and practice using such tools instead of leaving it to the last minute and seek help earlier. This would help in easing the complications. 
+
