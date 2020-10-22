@@ -244,3 +244,25 @@ Upon reflecting, the weaknesses observed this week can also be regarded as chall
 ## What would I do better next time and with what anticipated results?
 In relation to things I would do better for next time, I aim to prepare myself and practice using such tools instead of leaving it to the last minute and seek help earlier. This would help in easing the complications. 
 
+
+
+
+## Week 12: 
+
+## What have I learnt this week?
+Upon reflection of the week 12 workshop, I didn’t learn anything this week, however, we have worked on section 3 for this assignment. 
+
+## What do I 'now know' that I did not before?
+Nothing was learnt during this workshop, however, I found out more ways of improving the section 3 of the assignment. 
+
+## What insights have I gained?
+In all honesty there were no such insights gained during this workshop just like last workshop. 
+
+## What are (my/the) perceived strengths and weaknesses that I have observed?
+For the last week, unfortunately, there were no such strengths observed during this lesson. However, communication amongst was a weakness just like the past two weeks. 
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Upon reflecting, the weaknesses observed this week can also be regarded as challenges. The biggest challenge was failing to communicate, this was because myself and the other two members of the team had miscommunication with our team leader. Moreover, 
+
+## What would I do better next time and with what anticipated results?
+In relation to things I would do better for next time, I aim to talk to my tutor in regards to our group and the miscommunication. 
